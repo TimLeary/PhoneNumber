@@ -11,6 +11,7 @@ import phonenumber.views.StartView;
 /**
  *
  * @author David
+ * @author Almos
  */
 public class PhoneNumber{
     public static final String db_name = "phonenums.db";
